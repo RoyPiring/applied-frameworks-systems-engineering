@@ -1,14 +1,3 @@
----
-nextwork_uuid: e24b3cfb-a813-4e86-a071-58a2fa07b5dd
-original_filename: legendary-e24b3cfb-a813-4e86-a071-58a2fa07b5dd.md
-migrated_to: principles-book-exercises/ai-habit-forensics-lab.md
-migrated_at: 2026-05-04
-schema: nextwork-generator
-final_migrated_at: 2026-05-04
-final_migrated_from: principles-book-exercises/ai-habit-forensics-lab.md
-final_migrated_to: applied-frameworks-systems-engineering/ai-habit-forensics-lab.md
----
-
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Build an AI Habit Forensics Lab

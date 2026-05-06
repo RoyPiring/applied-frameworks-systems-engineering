@@ -1,17 +1,3 @@
----
-nextwork_uuid: d48bf50d-a7ea-4fee-8c4b-8c3ea2163abf
-original_filename: legendary-d48bf50d-a7ea-4fee-8c4b-8c3ea2163abf.md
-migrated_to: leadership-exercises/five-dysfunctions-team-simulator.md
-migrated_at: 2026-05-04
-schema: nextwork-generator
-reclassified_at: 2026-05-04
-reclassified_from: leadership-exercises/five-dysfunctions-team-simulator.md
-reclassified_to: principles-book-exercises/five-dysfunctions-team-simulator.md
-final_migrated_at: 2026-05-04
-final_migrated_from: principles-book-exercises/five-dysfunctions-team-simulator.md
-final_migrated_to: applied-frameworks-systems-engineering/five-dysfunctions-team-simulator.md
----
-
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Five Dysfunctions Team Simulator
