@@ -4,9 +4,9 @@
 
 ## Overview
 
--T-h-i-s- -p-r-o-j-e-c-t- -b-u-i-l-d-s- -a- -s-t-r-u-c-t-u-r-e-d- -d-i-a-g-n-o-s-t-i-c- -s-y-s-t-e-m- -f-o-r- -a-n-a-l-y-z-i-n-g- -a-n-d- -r-e-p-a-i-r-i-n-g- -f-a-i-l-i-n-g- -h-a-b-i-t-s- -u-s-i-n-g- -a- -c-u-s-t-o-m- -A-I- -C-o-a-c-h- -p-e-r-s-o-n-a- -a-n-d- -p-e-r-s-i-s-t-e-n-t- -a-r-t-i-f-a-c-t-s-.-
--
--T-h-e- -s-y-s-t-e-m- -s-h-i-f-t-s- -h-a-b-i-t- -t-r-a-c-k-i-n-g- -f-r-o-m- -s-u-r-f-a-c-e---l-e-v-e-l- -l-o-g-g-i-n-g- -t-o- -r-o-o-t---c-a-u-s-e- -a-n-a-l-y-s-i-s-.- -I-n-s-t-e-a-d- -o-f- -m-e-a-s-u-r-i-n-g- -s-t-r-e-a-k-s- -o-r- -o-u-t-c-o-m-e-s-,- -i-t- -i-d-e-n-t-i-f-i-e-s- -s-t-r-u-c-t-u-r-a-l- -f-a-i-l-u-r-e- -p-o-i-n-t-s- -a-c-r-o-s-s- -t-h-e- -h-a-b-i-t- -l-o-o-p- -a-n-d- -a-p-p-l-i-e-s- -t-a-r-g-e-t-e-d- -i-n-t-e-r-v-e-n-t-i-o-n-s-.- -T-h-e- -r-e-s-u-l-t- -i-s- -a- -r-e-u-s-a-b-l-e- -f-r-a-m-e-w-o-r-k- -t-h-a-t- -c-a-n- -d-i-a-g-n-o-s-e- -a-n-y- -h-a-b-i-t- -f-a-i-l-u-r-e- -a-n-d- -p-r-o-d-u-c-e- -c-o-r-r-e-c-t-i-v-e- -s-t-r-a-t-e-g-i-e-s- -g-r-o-u-n-d-e-d- -i-n- -b-e-h-a-v-i-o-r-a-l- -m-e-c-h-a-n-i-c-s- -r-a-t-h-e-r- -t-h-a-n- -m-o-t-i-v-a-t-i-o-n-.-
+This project builds a structured diagnostic system for analyzing and repairing failing habits using a custom AI Coach persona and persistent artifacts.
+
+The system shifts habit tracking from surface-level logging to root-cause analysis. Instead of measuring streaks or outcomes, it identifies structural failure points across the habit loop and applies targeted interventions. The result is a reusable framework that can diagnose any habit failure and produce corrective strategies grounded in behavioral mechanics rather than motivation.
 
 The architecture is built across **7 phases**, anchored by **Building an AI-Powered Habit Forensics Lab** on the input side and **The Teach-Back Challenge** at the end. Each phase is listed in the Implementation section below.
 
@@ -74,12 +74,12 @@ The diagram shows the topology and data flow of the system as built. The full ar
 This system is built across **7 phases**:
 
 1. **Building an AI-Powered Habit Forensics Lab**
-2. **Designing the Coach Persona**, -.
+2. **Designing the Coach Persona**
 3. **Running the Habit Autopsy**
 4. **Diagnosing the Four Laws of Behavior Change**
 5. **Crafting an Identity Reframe and Habit Operating System**
 6. **Visualizing the Habit Loop and Setting the 30-Day Re-Score**
-7. **The Teach-Back Challenge**, -.
+7. **The Teach-Back Challenge**
 
 For the full walkthrough with screenshots and step-by-step content, see [`documents/ai-habit-forensics-lab.md`](./documents/ai-habit-forensics-lab.md).
 

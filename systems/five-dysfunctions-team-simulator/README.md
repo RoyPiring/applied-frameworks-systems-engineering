@@ -4,9 +4,9 @@
 
 ## Overview
 
--T-h-i-s- -p-r-o-j-e-c-t- -b-u-i-l-d-s- -a-n- -A-I---d-r-i-v-e-n- -s-i-m-u-l-a-t-o-r- -t-o- -o-p-e-r-a-t-i-o-n-a-l-i-z-e- -L-e-n-c-i-o-n-i-'-s- -F-i-v-e- -D-y-s-f-u-n-c-t-i-o-n-s- -m-o-d-e-l- -t-h-r-o-u-g-h- -c-o-n-t-r-o-l-l-e-d- -i-n-t-e-r-a-c-t-i-o-n- -w-i-t-h- -r-e-s-i-s-t-a-n-t- -p-e-r-s-o-n-a-s-.-
--
--I-n-s-t-e-a-d- -o-f- -p-a-s-s-i-v-e-l-y- -r-e-a-d-i-n-g- -t-h-e-o-r-y-,- -t-h-e- -s-y-s-t-e-m- -f-o-r-c-e-s- -r-e-a-l---t-i-m-e- -d-i-a-g-n-o-s-i-s- -a-n-d- -i-n-t-e-r-v-e-n-t-i-o-n- -a-c-r-o-s-s- -a-l-l- -f-i-v-e- -l-a-y-e-r-s- -o-f- -t-h-e- -d-y-s-f-u-n-c-t-i-o-n- -p-y-r-a-m-i-d-.- -E-a-c-h- -i-n-t-e-r-a-c-t-i-o-n- -i-s- -m-a-p-p-e-d- -t-o- -o-b-s-e-r-v-a-b-l-e- -b-e-h-a-v-i-o-r- -a-n-d- -t-h-e-n- -t-i-e-d- -t-o- -m-e-a-s-u-r-a-b-l-e- -b-u-s-i-n-e-s-s- -o-u-t-c-o-m-e-s-.- -T-h-e- -s-i-m-u-l-a-t-o-r- -c-r-e-a-t-e-s- -a- -c-l-o-s-e-d- -l-o-o-p- -w-h-e-r-e- -l-e-a-d-e-r-s-h-i-p- -a-c-t-i-o-n-s- -c-a-n- -b-e- -t-e-s-t-e-d-,- -e-v-a-l-u-a-t-e-d-,- -a-n-d- -r-e-f-i-n-e-d- -u-n-d-e-r- -p-r-e-s-s-u-r-e- -c-o-n-d-i-t-i-o-n-s- -t-h-a-t- -r-e-s-e-m-b-l-e- -r-e-a-l- -t-e-a-m- -d-y-n-a-m-i-c-s-.-
+This project builds an AI-driven simulator to operationalize Lencioni's Five Dysfunctions model through controlled interaction with resistant personas.
+
+Instead of passively reading theory, the system forces real-time diagnosis and intervention across all five layers of the dysfunction pyramid. Each interaction is mapped to observable behavior and then tied to measurable business outcomes. The simulator creates a closed loop where leadership actions can be tested, evaluated, and refined under pressure conditions that resemble real team dynamics.
 
 The architecture is built across **10 phases**, anchored by **Building an AI Team Effectiveness Simulator** on the input side and **Upward Accountability in a High Power-Distance Variant** at the end. Each phase is listed in the Implementation section below.
 
@@ -96,7 +96,7 @@ This system is built across **10 phases**:
 7. **Focusing the Team on Collective Results**
 8. **Capstone Meeting: All Five Layers Simultaneously**
 9. **Before vs. After: Proving the KPI Movement**
-10. **Upward Accountability in a High Power-Distance Variant**, -.
+10. **Upward Accountability in a High Power-Distance Variant**
 
 For the full walkthrough with screenshots and step-by-step content, see [`documents/five-dysfunctions-team-simulator.md`](./documents/five-dysfunctions-team-simulator.md).
 
