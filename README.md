@@ -1,6 +1,6 @@
 # Applied Frameworks Systems Engineering
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-2-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--10-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-2-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--11-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *How does a published framework hold when engineered as a system?*
 
@@ -23,7 +23,7 @@ Frameworks from books and methodologies treated as the engineering constraint. E
 
 ## Systems
 
-- **[Build an AI Habit Forensics Lab](./systems/ai-habit-forensics-lab/)** — AI · Re-Score · Teach-Back
-- **[Five Dysfunctions Team Simulator](./systems/five-dysfunctions-team-simulator/)** — AI · KPI · Vulnerability-Based · Buy-In
+- **[Build an AI Habit Forensics Lab](./systems/ai-habit-forensics-lab/)**, AI · Re-Score · Teach-Back
+- **[Five Dysfunctions Team Simulator](./systems/five-dysfunctions-team-simulator/)**, AI · KPI · Vulnerability-Based · Buy-In
 
 
