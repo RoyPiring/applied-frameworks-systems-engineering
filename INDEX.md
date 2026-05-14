@@ -6,7 +6,7 @@ Frameworks from books and methodologies, engineered into working systems.
 
 ## Systems
 
-| # | System | What it does |
-|--:|---|---|
-| 1 | [Build an AI Habit Forensics Lab](./systems/ai-habit-forensics-lab/) | AI · Claude · Coaching-Loop |
-| 2 | [Five Dysfunctions Team Simulator](./systems/five-dysfunctions-team-simulator/) | AI · Claude · Python · Simulation-Loop |
+| # | System | Onboarded | Last updated | What it does |
+|--:|---|---|---|---|
+| 1 | [Build an AI Habit Forensics Lab](./systems/ai-habit-forensics-lab/) | 2026-05-06 | 2026-05-11 | AI · Claude · Coaching-Loop |
+| 2 | [Five Dysfunctions Team Simulator](./systems/five-dysfunctions-team-simulator/) | 2026-05-06 | 2026-05-11 | AI · Claude · Python · Simulation-Loop |
