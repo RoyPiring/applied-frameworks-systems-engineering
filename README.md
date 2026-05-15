@@ -24,7 +24,7 @@ Frameworks from books and methodologies treated as the engineering constraint. E
 ## Systems
 
 - **[Build an AI Habit Forensics Lab](./systems/ai-habit-forensics-lab/)**, AI · Claude · Coaching-Loop
-- **[Build an AI Health Scorecard System](./systems/ai-health-scorecard-system/)**, AI · Claude · Multi-Agent · Vision-Anchor
 - **[Five Dysfunctions Team Simulator](./systems/five-dysfunctions-team-simulator/)**, AI · Claude · Python · Simulation-Loop
+- **[Build an AI Health Scorecard System](./systems/ai-health-scorecard-system/)**, AI · Claude · Multi-Agent · Vision-Anchor
 
 
