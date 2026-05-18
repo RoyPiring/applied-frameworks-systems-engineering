@@ -1,0 +1,64 @@
+lens: applied-frameworks-systems-engineering
+featured_enabled: auto
+threshold: 1
+scored_at: '2026-05-18'
+human_pin: []
+systems:
+- slug: ai-habit-forensics-lab
+  axis_scores:
+    technical_depth: 7
+    voice: 8
+    validation: 7
+  axis_reasoning:
+    technical_depth: Diagram names real components (Cue Detector, Past-Self-as-Pattern,
+      Four Laws Diagnostic, 30-Day Re-Score Engine) across three subgraphs with feedback
+      edges from Re-Score back to Autopsy.
+    voice: 'Prose is structural and direct: ''root issue is structural, not motivational''
+      and ''absence of a recovery protocol acting as the primary failure point'' both
+      carry decisions without filler.'
+    validation: Seven-phase checklist tied to screenshots in the source doc; Habit
+      Autopsy phase shows the strongest evidence with surfaced failure patterns rather
+      than just a checkmark.
+  average: 7.3
+  rationale: Root-cause habit forensics with a 30-day re-score loop that feeds failures
+    back into diagnosis
+  featured: true
+- slug: ai-health-scorecard-system
+  axis_scores:
+    technical_depth: 9
+    voice: 8
+    validation: 8
+  axis_reasoning:
+    technical_depth: Nine-phase build with seven named subgraphs in the diagram including
+      a six-agent pipeline, Green/Amber/Gray confidence layer, Vision Anchor tiebreaker,
+      and Biological Age Clock composite.
+    voice: Names concrete tradeoffs like 'predicted 8,000 steps / actual 3,200' and
+      frames prediction gap itself as data; one paragraph drifts toward 'operationally
+      coherent' but the rest carries weight.
+    validation: Each of nine phases is checked and the doc records a concrete committed
+      action (fasting insulin and HbA1c testing) with rationale tied to family history
+      and BMI indicators; Running the First Full Assessment phase has the strongest
+      evidence.
+  average: 8.3
+  rationale: Six-agent health pipeline with telemetry cross-validation and source-quality
+    confidence layer
+  featured: true
+- slug: five-dysfunctions-team-simulator
+  axis_scores:
+    technical_depth: 8
+    voice: 9
+    validation: 8
+  axis_reasoning:
+    technical_depth: Ten-phase architecture wires four resistant personas to the five
+      dysfunction layers with a Before/After KPI scorecard loop and a Pressure Event
+      injector closing the capstone cycle.
+    voice: 'Sharp and decision-led: ''Commitment is the most difficult layer to sustain'',
+      ''Accountability is anchored to documented commitments rather than role hierarchy'',
+      no banned verbs detected.'
+    validation: Before/After KPI scorecard provides a concrete delta chain across
+      all five layers; the Before vs After phase carries the strongest evidence by
+      quantifying intervention impact.
+  average: 8.3
+  rationale: Before/after KPI delta across five dysfunction layers driven by four
+    resistant AI personas
+  featured: true

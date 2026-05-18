@@ -1,6 +1,6 @@
 # Applied Frameworks Systems Engineering
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-3-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--15-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-3-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--18-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *How does a published framework hold when engineered as a system?*
 
@@ -21,10 +21,11 @@ Frameworks from books and methodologies treated as the engineering constraint. E
 
 **What it isn't.** A substitute for reading the source material or original framework authorship.
 
-## Systems
+## Featured Systems
 
-- **[Build an AI Habit Forensics Lab](./systems/ai-habit-forensics-lab/)**, AI · Claude · Coaching-Loop
-- **[Five Dysfunctions Team Simulator](./systems/five-dysfunctions-team-simulator/)**, AI · Claude · Python · Simulation-Loop
-- **[Build an AI Health Scorecard System](./systems/ai-health-scorecard-system/)**, AI · Claude · Multi-Agent · Vision-Anchor
+- **[Build an AI Habit Forensics Lab](./systems/ai-habit-forensics-lab/)**: Root-cause habit forensics with a 30-day re-score loop that feeds failures back into diagnosis
+- **[Build an AI Health Scorecard System](./systems/ai-health-scorecard-system/)**: Six-agent health pipeline with telemetry cross-validation and source-quality confidence layer
+- **[Five Dysfunctions Team Simulator](./systems/five-dysfunctions-team-simulator/)**: Before/after KPI delta across five dysfunction layers driven by four resistant AI personas
+
 
 
