@@ -61,8 +61,6 @@ flowchart LR
 
     HabitLog -->|streams| ReScore
     HabitOS -->|publishes| Diagram[/Mermaid Habit-Loop Artifact/]
-class Cue,PastSelf,IdentityFuture,ReScore service
-
     class Cue,PastSelf,IdentityFuture,ReScore service
     class User io
 ```
@@ -85,7 +83,7 @@ For the full walkthrough with screenshots and step-by-step content, see [`docume
 
 ## Validation
 
-Build outcomes verified end-to-end. Each phase below is captured with screenshots, configuration, and observable behavior in [`documents/ai-habit-forensics-lab.md`](./documents/ai-habit-forensics-lab.md):
+Each build phase below is documented in [`documents/ai-habit-forensics-lab.md`](./documents/ai-habit-forensics-lab.md), with screenshots, configuration, and notes as captured during the build:
 
 - ✅ Building an AI-Powered Habit Forensics Lab
 - ✅ Designing the Coach Persona

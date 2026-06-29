@@ -73,9 +73,6 @@ flowchart TD
     AfterKPI -->|reports back| Facilitator
     AfterKPI -->|feeds AAR| Capstone{{Capstone Integrated Challenge}}
     Capstone -->|re-triggers| Trigger
-class SimFile datastore
-class Facilitator,BeforeKPI io
-
     class SimFile datastore
     class ClaudeDesktop,MermaidViz,Maya,Sam,Dev,Jordan,Trust,Conflict,Commitment,Accountability,Results service
     class Facilitator,BeforeKPI io
@@ -102,7 +99,7 @@ For the full walkthrough with screenshots and step-by-step content, see [`docume
 
 ## Validation
 
-Build outcomes verified end-to-end. Each phase below is captured with screenshots, configuration, and observable behavior in [`documents/five-dysfunctions-team-simulator.md`](./documents/five-dysfunctions-team-simulator.md):
+Each build phase below is documented in [`documents/five-dysfunctions-team-simulator.md`](./documents/five-dysfunctions-team-simulator.md), with screenshots, configuration, and notes as captured during the build:
 
 - ✅ Building an AI Team Effectiveness Simulator
 - ✅ Diagnosing Team Dysfunction: The Before KPI Scorecard

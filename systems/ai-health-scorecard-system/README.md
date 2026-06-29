@@ -149,7 +149,6 @@ flowchart LR
     Strength --> BioDelta
     Nutrition --> BioDelta
     BioDelta -.maps to.-> FutureMap
-
     class ClaudeCode,Obsidian,Mermaid io
     class Intake,Integrator,Scoring,Protocol,Pressure,Skeptic,FutureSelf75 service
     class Radar,Trajectory,Quarterly,Upgrade,AAR,Weekly,QuarterRerun,AntiDrift service
@@ -180,7 +179,7 @@ For the full walkthrough with screenshots and step-by-step content, see [`docume
 
 ## Validation
 
-Build outcomes verified end-to-end. Each phase below is captured with screenshots, configuration, and observable behavior in [`documents/ai-health-scorecard-system.md`](./documents/ai-health-scorecard-system.md):
+Each build phase below is documented in [`documents/ai-health-scorecard-system.md`](./documents/ai-health-scorecard-system.md), with screenshots, configuration, and notes as captured during the build:
 
 - ✅ Building a Personal AI Health Assessment System
 - ✅ Setting Up the Project Environment

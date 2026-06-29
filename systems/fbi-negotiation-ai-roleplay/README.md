@@ -98,7 +98,6 @@ flowchart TD
         Adapt(Archetype Adaptation)
         Teach(Teach the Mirror Technique)
     end
-
     class ProjectFiles,Playbook,SystemPrompt,BestScript,AudioFiles,MirrorCard,LabelCard,AuditCard datastore
     class PSScript,EdgeTTS,ClaudeDesktop,Cowork,GenPlayback,Mirror,Label,Empathy,Audit,ThatsRight,Calibrated,NoGambit,Ackerman,BlackSwan,Adapt,Teach service
     class MirrorDrill,LabelDrill,QuestionDrill,Capstone,Review event
@@ -122,7 +121,7 @@ For the full walkthrough with screenshots and step-by-step content, see [`docume
 
 ## Validation
 
-Build outcomes verified end-to-end. Each phase below is captured with screenshots, configuration, and observable behavior in [`documents/fbi-negotiation-ai-roleplay.md`](./documents/fbi-negotiation-ai-roleplay.md):
+Each build phase below is documented in [`documents/fbi-negotiation-ai-roleplay.md`](./documents/fbi-negotiation-ai-roleplay.md), with screenshots, configuration, and notes as captured during the build:
 
 - ✅ Setting Up the Negotiation Coach
 - ✅ Mastering the Mirror Technique Under Pressure
