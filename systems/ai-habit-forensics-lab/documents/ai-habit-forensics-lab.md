@@ -103,7 +103,7 @@ Mermaid diagrams represent the habit loop and highlight failure points, while co
 
 The system defines measurable success conditions.
 
-Progress is evaluated based on execution frequency and identity alignment. If these metrics do not improve, the diagnostic is rerun, and the system iterates on the identified failure point. This creates a continuous improvement loop.
+Progress is evaluated based on execution frequency and identity alignment. If these metrics do not rise, the diagnostic is rerun, and the system iterates on the identified failure point. This creates a continuous feedback loop.
 
 ## Secret Mission: The Teach-Back Challenge
 

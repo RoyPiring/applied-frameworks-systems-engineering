@@ -39,7 +39,7 @@ Each persona represents a different dysfunction signal. Maya reflects trust brea
 
 The system begins with a baseline diagnosis across all five dysfunction layers.
 
-Each persona is mapped to a dysfunction based on observed behavior. The scorecard quantifies these dysfunctions, creating a measurable starting point. This establishes a reference for evaluating whether interventions produce meaningful improvement.
+Each persona is mapped to a dysfunction based on observed behavior. The scorecard quantifies these dysfunctions, creating a measurable starting point. This establishes a reference for evaluating whether interventions produce meaningful gains.
 
 ### Lowest-scoring dysfunction layer
 
@@ -127,7 +127,7 @@ A shared scoreboard defines success at the team level, aligning all contribution
 
 Individual performance is redefined as a contributor to team outcomes.
 
-Metrics are structured so that personal achievements only matter when they improve the collective result. This eliminates isolated optimization and reinforces dependency across roles.
+Metrics are structured so that personal achievements only matter when they raise the collective result. This eliminates isolated wins and reinforces dependency across roles.
 
 ## Capstone Meeting: All Five Layers Simultaneously
 
@@ -153,7 +153,7 @@ A trust-based action leads to surfaced risks, which prevents downstream failures
 
 ### After Action Review and transfer planning
 
-The system validates effectiveness through measurable improvement.
+The system validates effectiveness through measurable gains.
 
 The before and after scorecards quantify changes across all dysfunction layers. The analysis identifies which interventions produced the largest impact and why they were effective.
 
@@ -169,7 +169,7 @@ A personal dysfunction is identified and translated into observable behavior. Th
 
 The largest improvements occur in trust, accountability, and results.
 
-Trust improves through vulnerability-based leadership actions, accountability improves through structured peer feedback, and results improve through aligned incentives. These changes compound over time, reinforcing system stability.
+Trust strengthens through vulnerability-based leadership actions, accountability strengthens through structured peer feedback, and results strengthen through aligned incentives. These changes compound over time, reinforcing system stability.
 
 ## Secret Mission: Upward Accountability in a High Power-Distance Variant
 
@@ -199,7 +199,7 @@ The main challenge was adapting accountability strategies when authority was rem
 
 This project focuses on applying leadership frameworks under realistic conditions.
 
-The next step is improving facilitation of difficult conversations and strengthening conflict resolution strategies within team environments.
+The next step is sharpening facilitation of difficult conversations and strengthening conflict resolution strategies within team environments.
 
 ---
 

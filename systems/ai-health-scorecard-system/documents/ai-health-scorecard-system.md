@@ -31,7 +31,7 @@ The environment was designed around persistent storage for prompts, scores, expo
 
 ### Tools and their roles
 
-The tooling stack intentionally prioritized local-first workflows over cloud-hosted health platforms. This improved privacy, reduced vendor dependency, and preserved full control over prompts, dashboards, and personal health data.
+The tooling stack intentionally prioritized local-first workflows over cloud-hosted health platforms. This strengthened privacy, reduced vendor dependency, and preserved full control over prompts, dashboards, and personal health data.
 
 The modular structure also simplified experimentation because scoring logic, orchestration behavior, and dashboard layouts could be modified directly without platform restrictions.
 
@@ -65,7 +65,7 @@ The Data Integrator agent was then designed to process Fitbit telemetry, reconci
 
 The predict-then-reveal workflow converted passive health metrics into active behavioral feedback. Users estimated metrics such as sleep quality, daily steps, or exercise intensity before viewing wearable telemetry.
 
-This exposed overconfidence patterns while improving long-term self-calibration. Repeated prediction cycles trained users to recognize where their intuition aligned with reality and where it consistently drifted.
+This exposed overconfidence patterns while deepening long-term self-calibration. Repeated prediction cycles trained users to recognize where their intuition aligned with reality and where it consistently drifted.
 
 Why behavioral calibration mattered
 
@@ -83,7 +83,7 @@ The Protocol Architect identified the highest-leverage intervention across all d
 
 ### Priority Stack decision logic
 
-The Priority Stack prioritized interventions capable of improving multiple health domains simultaneously. Actions such as Zone 2 cardio improved metabolic health, cardiorespiratory performance, and sleep quality together, giving them significantly higher operational leverage.
+The Priority Stack prioritized interventions capable of lifting multiple health domains simultaneously. Actions such as Zone 2 cardio strengthened metabolic health, cardiorespiratory performance, and sleep quality together, giving them significantly higher operational leverage.
 
 When multiple interventions showed similar leverage, the Vision Anchor acted as the tie-breaker by prioritizing actions most connected to long-term capabilities and future-life goals.
 
@@ -123,7 +123,7 @@ The recommendation connected directly to the Vision Anchor capability focused on
 
 I used Claude Code to generate an interactive dashboard featuring radar charts, source-quality indicators, trajectory projections, quarterly comparison views, and a collapsible Data Upgrade Path section.
 
-The dashboard consolidated assessment outputs into a visual decision-support system optimized for recurring reviews and long-term trend tracking.
+The dashboard consolidated assessment outputs into a visual decision-support system tuned for recurring reviews and long-term trend tracking.
 
 ### Source quality indicator system
 
@@ -151,7 +151,7 @@ The system committed to scheduling fasting insulin and HbA1c testing as the high
 
 The recommendation was prioritized because of family history, BMI indicators, waist measurements, and uncertainty surrounding long-term metabolic health.
 
-The project treated health optimization as a continuous feedback system rather than a one-time evaluation. Repeated assessments improve calibration, expose trajectory shifts, and reduce the likelihood of unnoticed long-term decline.
+The project treated health optimization as a continuous feedback system rather than a one-time evaluation. Repeated assessments sharpen calibration, expose trajectory shifts, and reduce the likelihood of unnoticed long-term decline.
 
 This transformed the platform into a longitudinal decision-support system instead of a static health report.
 
@@ -185,7 +185,7 @@ Multiple iterations were required across scoring presentation, projection logic,
 
 I completed this project to deepen my understanding of AI-assisted health assessment systems and learn how wearable telemetry, self-assessment, and long-term planning can operate together inside a structured scoring framework.
 
-The next area I want to improve is advanced health-data visualization using more dynamic dashboards and longitudinal trend analysis models.
+The next area I want to deepen is advanced health-data visualization using more dynamic dashboards and longitudinal trend analysis models.
 
 ---
 
