@@ -5,7 +5,10 @@ This portfolio repository was built from NextWork projects, created via NextWork
 **Original NextWork projects:**
 
 - Build an AI Habit Forensics Lab
+- Build an AI Health Scorecard System
+- FBI Negotiation Tactics with AI Roleplay
 - Five Dysfunctions Team Simulator
+- Map Your Jagged Frontier with AI
 
 ## About NextWork
 
