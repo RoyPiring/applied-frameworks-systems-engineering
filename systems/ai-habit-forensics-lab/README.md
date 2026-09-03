@@ -43,7 +43,7 @@ flowchart LR
     Reward -->|logs| HabitLog
 
     subgraph ForensicsLayer["Forensics Layer (Coach Persona)"]
-        direction TD
+        direction TB
         PastSelf(Past-Self-as-Pattern) -->|detects break| FourLaws(Four Laws Diagnostic)
         FourLaws -->|scores| Autopsy{{Habit Autopsy Event}}
         IdentityFuture(Identity Future Voice) -->|reframes| HabitOS(Habit OS Repair)
